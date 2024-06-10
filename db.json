@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+      "title": "Cach hoc reactJS hieu qua",
+      "content": "hihi 1.",
+      "thumbnail": "https://example.com/image1.jpg",
+      "created_at": "2024-06-01T10:00:00Z",
+      "created_by": "Tác giả 1",
+      "comments": [
+        {
+          "id": 1,
+          "content": "Post hay!",
+          "created_at": "2024-06-01T11:00:00Z",
+          "created_by": "comment dao 1"
+        }
+      ]
+  }
+]
